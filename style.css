@@ -140,6 +140,7 @@ button{cursor:pointer}
   .nav-links a{width:48%;margin:4px 0}
   .nav-toggle{display:block}
   .nav-menu.open .nav-links{display:flex}
+  .hero-section{background-attachment:scroll;background-size:cover;background-position:center}
 }
 
 /* toast */
